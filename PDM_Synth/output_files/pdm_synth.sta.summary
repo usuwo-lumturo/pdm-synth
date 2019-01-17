@@ -1,0 +1,309 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'CLK'
+Slack : -7.947
+TNS   : -300.739
+
+Type  : Slow 1100mV 85C Model Setup 'RST'
+Slack : -6.306
+TNS   : -74.578
+
+Type  : Slow 1100mV 85C Model Setup 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -6.046
+TNS   : -175.217
+
+Type  : Slow 1100mV 85C Model Setup 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : -4.456
+TNS   : -242.389
+
+Type  : Slow 1100mV 85C Model Setup 'SWNO:U1|MIDI_DATA[0]'
+Slack : -3.557
+TNS   : -15.223
+
+Type  : Slow 1100mV 85C Model Hold 'RST'
+Slack : -2.345
+TNS   : -7.445
+
+Type  : Slow 1100mV 85C Model Hold 'SWNO:U1|MIDI_DATA[0]'
+Slack : -1.003
+TNS   : -2.926
+
+Type  : Slow 1100mV 85C Model Hold 'CLK'
+Slack : -0.544
+TNS   : -0.707
+
+Type  : Slow 1100mV 85C Model Hold 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -0.076
+TNS   : -0.115
+
+Type  : Slow 1100mV 85C Model Hold 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : 0.307
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -4.133
+TNS   : -122.679
+
+Type  : Slow 1100mV 85C Model Recovery 'CLK'
+Slack : -3.874
+TNS   : -205.070
+
+Type  : Slow 1100mV 85C Model Removal 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 1.176
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'CLK'
+Slack : 1.321
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -0.547
+TNS   : -48.845
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : -0.538
+TNS   : -45.129
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SWNO:U1|MIDI_DATA[0]'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'RST'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'CLK'
+Slack : -7.855
+TNS   : -298.839
+
+Type  : Slow 1100mV 0C Model Setup 'RST'
+Slack : -6.295
+TNS   : -73.275
+
+Type  : Slow 1100mV 0C Model Setup 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -6.028
+TNS   : -176.729
+
+Type  : Slow 1100mV 0C Model Setup 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : -4.403
+TNS   : -238.157
+
+Type  : Slow 1100mV 0C Model Setup 'SWNO:U1|MIDI_DATA[0]'
+Slack : -3.531
+TNS   : -14.801
+
+Type  : Slow 1100mV 0C Model Hold 'RST'
+Slack : -2.336
+TNS   : -8.446
+
+Type  : Slow 1100mV 0C Model Hold 'SWNO:U1|MIDI_DATA[0]'
+Slack : -1.060
+TNS   : -3.126
+
+Type  : Slow 1100mV 0C Model Hold 'CLK'
+Slack : -0.682
+TNS   : -1.179
+
+Type  : Slow 1100mV 0C Model Hold 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -0.092
+TNS   : -0.092
+
+Type  : Slow 1100mV 0C Model Hold 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : 0.344
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -4.141
+TNS   : -122.108
+
+Type  : Slow 1100mV 0C Model Recovery 'CLK'
+Slack : -3.794
+TNS   : -183.837
+
+Type  : Slow 1100mV 0C Model Removal 'CLK'
+Slack : 1.012
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 1.152
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -0.600
+TNS   : -50.224
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : -0.538
+TNS   : -45.125
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SWNO:U1|MIDI_DATA[0]'
+Slack : 0.218
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'RST'
+Slack : 0.273
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 0.277
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'CLK'
+Slack : -3.888
+TNS   : -131.831
+
+Type  : Fast 1100mV 85C Model Setup 'RST'
+Slack : -3.148
+TNS   : -36.388
+
+Type  : Fast 1100mV 85C Model Setup 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -2.522
+TNS   : -69.917
+
+Type  : Fast 1100mV 85C Model Setup 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : -1.811
+TNS   : -97.464
+
+Type  : Fast 1100mV 85C Model Setup 'SWNO:U1|MIDI_DATA[0]'
+Slack : -1.500
+TNS   : -5.405
+
+Type  : Fast 1100mV 85C Model Hold 'RST'
+Slack : -1.249
+TNS   : -3.533
+
+Type  : Fast 1100mV 85C Model Hold 'SWNO:U1|MIDI_DATA[0]'
+Slack : -0.488
+TNS   : -1.503
+
+Type  : Fast 1100mV 85C Model Hold 'CLK'
+Slack : -0.452
+TNS   : -1.002
+
+Type  : Fast 1100mV 85C Model Hold 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 0.084
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : 0.128
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'CLK'
+Slack : -2.861
+TNS   : -120.117
+
+Type  : Fast 1100mV 85C Model Recovery 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -1.963
+TNS   : -59.196
+
+Type  : Fast 1100mV 85C Model Removal 'CLK'
+Slack : 0.475
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 0.592
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -0.507
+TNS   : -6.354
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : -0.045
+TNS   : -0.045
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'RST'
+Slack : 0.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SWNO:U1|MIDI_DATA[0]'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 0.328
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CLK'
+Slack : -3.255
+TNS   : -114.455
+
+Type  : Fast 1100mV 0C Model Setup 'RST'
+Slack : -2.664
+TNS   : -30.155
+
+Type  : Fast 1100mV 0C Model Setup 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -2.167
+TNS   : -60.779
+
+Type  : Fast 1100mV 0C Model Setup 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : -1.600
+TNS   : -86.030
+
+Type  : Fast 1100mV 0C Model Setup 'SWNO:U1|MIDI_DATA[0]'
+Slack : -1.363
+TNS   : -4.781
+
+Type  : Fast 1100mV 0C Model Hold 'RST'
+Slack : -1.190
+TNS   : -3.780
+
+Type  : Fast 1100mV 0C Model Hold 'CLK'
+Slack : -0.559
+TNS   : -2.916
+
+Type  : Fast 1100mV 0C Model Hold 'SWNO:U1|MIDI_DATA[0]'
+Slack : -0.440
+TNS   : -1.285
+
+Type  : Fast 1100mV 0C Model Hold 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 0.073
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : 0.127
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'CLK'
+Slack : -2.551
+TNS   : -101.768
+
+Type  : Fast 1100mV 0C Model Recovery 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : -1.880
+TNS   : -56.598
+
+Type  : Fast 1100mV 0C Model Removal 'CLK'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 0.525
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -0.511
+TNS   : -6.547
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SWNO:U1|DWN_CLK:U1|LO_CLK'
+Slack : -0.022
+TNS   : -0.022
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'RST'
+Slack : -0.001
+TNS   : -0.001
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SWNO:U1|MIDI_DATA[0]'
+Slack : 0.287
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'WAVGEN:U2|DWN_CLK:U2|LO_CLK'
+Slack : 0.355
+TNS   : 0.000
+
+------------------------------------------------------------
