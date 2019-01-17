@@ -17,3 +17,7 @@
 - Test_oscフォルダに入ってるコードに関しては、発音テスト用で組んだコード．
 
 - PDM_Synthフォルダに入ってるものが実際に組んだものです．
+
+- sigma_delta_converterはpythonでPDMを吐き出すもの．
+
+- sw2target_downclkは入力からダウンクロック周波数を指定するVHDLコードを生成するもの
